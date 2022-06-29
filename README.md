@@ -1,5 +1,6 @@
 # Causal-inference-in-building-design
-Open source code of paper: Introducing causal inference in the energy-efficient building design process
+Open source code of paper: <br>
+*Introducing causal inference in the energy-efficient building design process*<br>
 Arxiv: [http://arxiv.org/abs/2203.10115](https://arxiv.org/abs/2203.10115)
 
 
