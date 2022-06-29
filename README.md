@@ -3,13 +3,12 @@ Open source code of paper: Introducing causal inference in the energy-efficient 
 Arxiv: [http://arxiv.org/abs/2203.10115](https://arxiv.org/abs/2203.10115)
 
 
----
 
 <p align="center">
   <img width=400 src="https://user-images.githubusercontent.com/106488602/176478089-3f6e2bb8-3435-4c28-abce-56f04d69e51e.png" alt="">
 </p>
 
----
+
 For running the code, please run notebook `Four-step Causal Inference in an Energy-efficient Building Design Scenario.ipynb`<br>
 
 Additional python packages required:
