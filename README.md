@@ -53,4 +53,4 @@ Additional python packages required:
 
 For using the code or data, please cite:<br>
 
-- *Chen, X., Abualdenien, J., Singh, M.M., Borrmann, A. and Geyer, P., 2022. Introducing causal inference in the energy-efficient building design process. arXiv preprint arXiv:2203.10115.</i>
+- *Chen, X., Abualdenien, J., Singh, M.M., Borrmann, A. and Geyer, P., 2022. Introducing causal inference in the energy-efficient building design process. arXiv preprint arXiv:2203.10115.*
