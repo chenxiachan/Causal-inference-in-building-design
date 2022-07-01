@@ -10,7 +10,7 @@ Arxiv: [http://arxiv.org/abs/2203.10115](https://arxiv.org/abs/2203.10115)
 </p>
 
 
-For running the code, please run notebook `Four-step Causal Inference in an Energy-efficient Building Design Scenario.ipynb`<br>
+For running the code, please run notebook `Causal Inference in Energy-efficient Building Design Scenario.ipynb`<br>
 
 Additional python packages required:
 - sklearn
