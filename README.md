@@ -2,8 +2,8 @@
 Open source code of paper: <br>
 *Introducing causal inference in the energy-efficient building design process*<br>
 Paper: 
-- [https://www.sciencedirect.com/science/article/pii/S037877882200754X](https://www.sciencedirect.com/science/article/pii/S037877882200754X)
-- [http://arxiv.org/abs/2203.10115](https://arxiv.org/abs/2203.10115)
+[Energy and Buildings](https://www.sciencedirect.com/science/article/pii/S037877882200754X)
+[Arxiv](https://arxiv.org/abs/2203.10115)
 
 
 <p align="center">
