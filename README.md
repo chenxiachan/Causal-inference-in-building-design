@@ -1,8 +1,9 @@
 # Causal-inference-in-building-design
 Open source code of paper: <br>
 *Introducing causal inference in the energy-efficient building design process*<br>
-Arxiv: [http://arxiv.org/abs/2203.10115](https://arxiv.org/abs/2203.10115)
-
+Paper: 
+- [https://www.sciencedirect.com/science/article/pii/S037877882200754X](https://www.sciencedirect.com/science/article/pii/S037877882200754X)
+- [http://arxiv.org/abs/2203.10115](https://arxiv.org/abs/2203.10115)
 
 
 <p align="center">
@@ -26,7 +27,7 @@ Additional python packages required:
 
 For using the code or data, please cite:<br>
 
-- *Chen, X., Abualdenien, J., Singh, M.M., Borrmann, A. and Geyer, P., 2022. Introducing causal inference in the energy-efficient building design process. arXiv preprint arXiv:2203.10115.*
+- *Chen, X., Abualdenien, J., Singh, M. M., Borrmann, A., & Geyer, P. (2022). Introducing causal inference in the energy-efficient building design process. Energy and Buildings, 277, 112583. https://doi.org/10.1016/j.enbuild.2022.112583*
 
 ---
 
